@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OVIC News</string>
+    <string name="No_new_news">No new news</string>
+    <string name="No_internet">No Internet connection</string>
+    <string name="No_news">Sorry no news found. Please Check your Internet!</string>
+</resources>
